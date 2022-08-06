@@ -1,0 +1,3 @@
+need to change
+core.php, logout.php, index.php
+header('location: http://localhost/stock');	
